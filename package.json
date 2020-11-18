@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmeredith/SimpleStorage.git"
+    "url": "git+https://github.com/bmeredith/simple-storage.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bmeredith/SimpleStorage/issues"
+    "url": "https://github.com/bmeredith/simple-storage/issues"
   },
-  "homepage": "https://github.com/bmeredith/SimpleStorage#readme"
+  "homepage": "https://github.com/bmeredith/simple-storage#readme"
 }
